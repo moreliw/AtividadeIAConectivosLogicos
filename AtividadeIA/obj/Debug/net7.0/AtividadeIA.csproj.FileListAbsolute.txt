@@ -1,0 +1,14 @@
+C:\Users\willi\OneDrive\Documentos\GitHub\AtividadeIA\AtividadeIA\bin\Debug\net7.0\AtividadeIA.exe
+C:\Users\willi\OneDrive\Documentos\GitHub\AtividadeIA\AtividadeIA\bin\Debug\net7.0\AtividadeIA.deps.json
+C:\Users\willi\OneDrive\Documentos\GitHub\AtividadeIA\AtividadeIA\bin\Debug\net7.0\AtividadeIA.runtimeconfig.json
+C:\Users\willi\OneDrive\Documentos\GitHub\AtividadeIA\AtividadeIA\bin\Debug\net7.0\AtividadeIA.dll
+C:\Users\willi\OneDrive\Documentos\GitHub\AtividadeIA\AtividadeIA\bin\Debug\net7.0\AtividadeIA.pdb
+C:\Users\willi\OneDrive\Documentos\GitHub\AtividadeIA\AtividadeIA\obj\Debug\net7.0\AtividadeIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Documentos\GitHub\AtividadeIA\AtividadeIA\obj\Debug\net7.0\AtividadeIA.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Documentos\GitHub\AtividadeIA\AtividadeIA\obj\Debug\net7.0\AtividadeIA.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Documentos\GitHub\AtividadeIA\AtividadeIA\obj\Debug\net7.0\AtividadeIA.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Documentos\GitHub\AtividadeIA\AtividadeIA\obj\Debug\net7.0\AtividadeIA.dll
+C:\Users\willi\OneDrive\Documentos\GitHub\AtividadeIA\AtividadeIA\obj\Debug\net7.0\refint\AtividadeIA.dll
+C:\Users\willi\OneDrive\Documentos\GitHub\AtividadeIA\AtividadeIA\obj\Debug\net7.0\AtividadeIA.pdb
+C:\Users\willi\OneDrive\Documentos\GitHub\AtividadeIA\AtividadeIA\obj\Debug\net7.0\AtividadeIA.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Documentos\GitHub\AtividadeIA\AtividadeIA\obj\Debug\net7.0\ref\AtividadeIA.dll
